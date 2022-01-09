@@ -1,2 +1,2 @@
-# After-houres-issueboard
-Issue repository for Afterhoures
+# After-hours-issueboard
+Issue repository for Afterhours
