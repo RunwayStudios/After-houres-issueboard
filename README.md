@@ -21,7 +21,7 @@ The title should look like this  "Type of issue | Short description"
 ### Feature request
 - **Description**
 
-    A short description about your feature idea. Describe how your idea would benefit out game. If your idea is to our liking we might implement it. You would be mentioned in the credits of course 😳.
+    A short description about your feature idea. Describe how your idea would benefit our game. If your idea is to our liking we might implement it. You would be mentioned in the credits of course 😳.
 
 ### Question
 - **Question** 
@@ -53,7 +53,7 @@ If you have other input, comments, ideas on how to fix 🤓, etc.
 Bug | The enemy brakedances when catching the player 
 
 #### Steps to reproduce 
-1. Get catched by the enemy
+1. Get caught by the enemy
 
 #### Current behaviour 
 The enemy brakedances when catching the player
