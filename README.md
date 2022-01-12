@@ -14,19 +14,9 @@ The title should look like this  "Type of issue | Short description"
 
     | Type | Description |
     | ----------- | ----------- |
+    | Bug | Something isn't working like it is intendet to |
     | Feature request | A feature or iteration of an current feature that you would like to see |
     | Question | A general question about the game |
-    | Bug | Something isn't working like it is intendet to |
-
-### Feature request
-- **Description**
-
-    A short description about your feature idea. Describe how your idea would benefit our game. If your idea is to our liking we might implement it. You would be mentioned in the credits of course 😳.
-
-### Question
-- **Question** 
-
-    Your question about the game or anything related to Runway Studios.
 
 
 ### Bugs
@@ -46,8 +36,20 @@ Upload a file by clicking "Attach a file" in the bottom right corner.
 - **Other comment (optional)**  
 If you have other input, comments, ideas on how to fix 🤓, etc.
 
+
+### Feature request
+- **Description**
+
+    A short description about your feature idea. Describe how your idea would benefit our game. If your idea is to our liking we might implement it. You would be mentioned in the credits of course 😳.
+
+### Question
+- **Question** 
+
+    Your question about the game or anything related to Runway Studios.
+
+
 <br><br>
-# Example
+# Bug Example
 
 #### Title
 Bug | The enemy brakedances when catching the player 
