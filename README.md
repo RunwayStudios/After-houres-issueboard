@@ -14,7 +14,7 @@ The title should look like this  "Type of issue | Short description"
 
     | Type | Description |
     | ----------- | ----------- |
-    | Bug | Something isn't working like it is intendet to |
+    | Bug | Something isn't working like it is intended to |
     | Feature request | A feature or iteration of an current feature that you would like to see |
     | Question | A general question about the game |
 
