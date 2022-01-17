@@ -57,6 +57,7 @@ Bug | The enemy brakedances when catching the player
 #### Steps to reproduce 
 1. Get caught by the enemy
 
+
 #### Current behaviour 
 The enemy brakedances when catching the player
 
