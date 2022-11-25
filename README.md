@@ -1,5 +1,5 @@
 # How to write issues
-If you have any uncertainty/difficulty then ask any dev for help on how to do it — we'll love to help as good issue reports are 🗝🔑
+If you have any uncertainty/difficulty then ask any dev for help on how to do it — we'll love to help as good issue reports are 🗝
 You can ask us directly on our discord server: https://discord.gg/Dy5BnUCERh
 
 We strive to check and verify new issues daily. If it's very critical to get an immediate fix then do an @runway-devs in the issues channel with link to the bug report you've just created.
